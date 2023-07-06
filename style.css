@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.cards{
+  width: 500px;
+  height: 150px;
+  text-align: center;
+  background-color: blanchedalmond;
+}
